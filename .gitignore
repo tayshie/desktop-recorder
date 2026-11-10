@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*.part.wav
+_out/
+_test_config.json
+.env
